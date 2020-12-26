@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Halthota Ganesh.
+I am working as a Technical Specialist at RBEI with 7 years of experience in Automotive domain.
+
+- 🔭 I’m currently working on SoftWare Update topics for Infotainment Devices. You can checkout more at [ganesh-halthota](https://www.linkedin.com/in/ganesh-halthota/)
+- 🌱 I’m currently learning a lot of programming languages like C++(never ending :grin:), Python3 and some frameworks like Qt, Yocto
+- 📫 How to reach me: ganesh.rvec@gmail.com
+- :sun_with_face: Hobbies: Learning something, photography
+
 <!--
 **ganesh737/ganesh737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
