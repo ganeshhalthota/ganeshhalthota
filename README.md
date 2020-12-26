@@ -14,6 +14,21 @@ Embedded Linux:
     - [meta-sunxi](https://github.com/ganesh737/meta-sunxi)
 - [Helper script for flashing Android and Yocto on RPI3](https://github.com/ganesh737/update_tooling)
 
+Notes:
+- [Book: The Pragmatic Programmer](https://github.com/ganesh737/The-Pragmatic-Programmer)
+- [obsidian notes](https://github.com/ganesh737/obsidian-notes)
+
+Personal configurations:
+- [Virtual Machine Settings](https://github.com/ganesh737/vm_settings)
+- [Docker Configurations](https://github.com/ganesh737/docker_configs)
+
+Personal Github Pages:
+- [Sync Knowledge](https://github.com/ganesh737/ganesh737.github.io)
+- [My Beat of Life](https://github.com/ganesh737/my-beat-of-life)
+
+Data Science:
+- [Google Colab Experiments](https://github.com/ganesh737/colab_experiments)
+
 MOOC Code Repositories:
 - [cfl-qt](https://github.com/ganesh737/cfl-qt)
 
@@ -32,20 +47,6 @@ Challenging Code Repositories:
 - [cc-geek-for-geeks](https://github.com/ganesh737/cc-geek-for-geeks)
 - [cc-codechef](https://github.com/ganesh737/cc-codechef)
 - [cc-advent-of-code](https://github.com/ganesh737/cc-advent-of-code)
-
-Data Science:
-- [Google Colab Experiments](https://github.com/ganesh737/colab_experiments)
-
-Programming Philosophy:
-- [Book: The Pragmatic Programmer](https://github.com/ganesh737/The-Pragmatic-Programmer)
-
-Personal configurations:
-- [Virtual Machine Settings](https://github.com/ganesh737/vm_settings)
-- [Docker Configurations](https://github.com/ganesh737/docker_configs)
-
-Personal Github Pages:
-- [Sync Knowledge](https://github.com/ganesh737/ganesh737.github.io)
-- [My Beat of Life](https://github.com/ganesh737/my-beat-of-life)
 
 <!--
 **ganesh737/ganesh737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
