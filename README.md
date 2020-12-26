@@ -8,6 +8,12 @@ I am Halthota Ganesh.
 - :sun_with_face: Hobbies: photography
 - 📫 How to reach me: ganesh.rvec@gmail.com
 
+Embedded Linux:
+- Yocto layers for systemd start-up with dual bank RFS on BPI-M1 board
+    - [meta-bananapi](https://github.com/ganesh737/meta-bananapi)
+    - [meta-sunxi](https://github.com/ganesh737/meta-sunxi)
+- [Helper script for flashing Android and Yocto on RPI3](https://github.com/ganesh737/update_tooling)
+
 MOOC Code Repositories:
 - [cfl-qt](https://github.com/ganesh737/cfl-qt)
 
@@ -26,12 +32,6 @@ Challenging Code Repositories:
 - [cc-geek-for-geeks](https://github.com/ganesh737/cc-geek-for-geeks)
 - [cc-codechef](https://github.com/ganesh737/cc-codechef)
 - [cc-advent-of-code](https://github.com/ganesh737/cc-advent-of-code)
-
-Embedded Linux:
-- Yocto layers for systemd start-up with dual bank RFS on BPI-M1 board
-    - [meta-bananapi](https://github.com/ganesh737/meta-bananapi)
-    - [meta-sunxi](https://github.com/ganesh737/meta-sunxi)
-- [Helper script for flashing Android and Yocto on RPI3](https://github.com/ganesh737/update_tooling)
 
 Data Science:
 - [Google Colab Experiments](https://github.com/ganesh737/colab_experiments)
