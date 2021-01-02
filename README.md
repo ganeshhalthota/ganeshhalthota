@@ -13,6 +13,7 @@ Embedded Linux:
     - [meta-bananapi](https://github.com/ganesh737/meta-bananapi)
     - [meta-sunxi](https://github.com/ganesh737/meta-sunxi)
 - [Helper script for flashing Android and Yocto on RPI3](https://github.com/ganesh737/update_tooling)
+- Code written for Yocto Embedded Linux course on Udemy - [meta-example](https://github.com/ganesh737/meta-example)
 
 Notes:
 - [Book: The Pragmatic Programmer](https://github.com/ganesh737/The-Pragmatic-Programmer)
