@@ -2,11 +2,11 @@
 
 I am Halthota Ganesh.
 
-- :smiley: About me: I am a embedded software engineer passioante about bringing emerging topics into my field of work
+- :smiley: About me: I am an Embedded Software Engineer passionate about bringing emerging topics into my field of work
 - :computer: Work: I'm working as a Technical Specialist at RBEI with 7 years of experience in Automotive domain. I have worked mainly on SoftWare Update topics for Infotainment Devices. You can checkout more at [ganesh-halthota](https://www.linkedin.com/in/ganesh-halthota/)
 - 🌱 I’m currently learning a some programming languages like C++(never ending :grin:), Python3 and some frameworks like Qt, Yocto
 - :sun_with_face: Hobbies: photography
-- 📫 How to reach me: ganesh.rvec@gmail.com
+- 📫 How to reach me: ganesh.halthota@gmail.com
 
 Embedded Linux:
 - Yocto layers for systemd start-up with dual bank RFS on BPI-M1 board
@@ -17,7 +17,7 @@ Embedded Linux:
 
 Notes:
 - [Book: The Pragmatic Programmer](https://github.com/ganesh737/The-Pragmatic-Programmer)
-- [obsidian notes](https://github.com/ganesh737/obsidian-notes)
+- [Obsidian notes](https://github.com/ganesh737/obsidian-notes)
 
 Personal configurations:
 - [Virtual Machine Settings](https://github.com/ganesh737/vm_settings)
