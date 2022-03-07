@@ -21,7 +21,7 @@ Personal configurations:
 
 Personal Github Pages:
 - [Academic blog](https://ganeshhalthota.github.io)
-- [My Beat of Life](https://github.com/ganeshhalthota/my-beat-of-life)
+- [My Beat of Life](https://ganeshhalthota.github.io/my-beat-of-life/)
 
 <!--
 Data Science:
