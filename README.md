@@ -3,30 +3,27 @@
 I am Halthota Ganesh.
 
 - :smiley: About me: I am an Embedded Software Engineer passionate about bringing emerging topics into my field of work
-- :computer: Work: I'm working as a Technical Specialist at RBEI with 7 years of experience in Automotive domain. I have worked mainly on SoftWare Update topics for Infotainment Devices. You can checkout more at [ganesh-halthota](https://www.linkedin.com/in/ganesh-halthota/)
-- 🌱 I’m currently learning a some programming languages like C++(never ending :grin:), Python3 and some frameworks like Qt, Yocto
+- :computer: Work: I'm working as a Technical Specialist at RBEI with 8 years of experience in Automotive domain. I have worked mainly on SoftWare Update topics for Infotainment Devices. You can checkout more at [ganesh-halthota](https://www.linkedin.com/in/ganesh-halthota/)
+- 🌱 I’m currently learning Data Science i.e. ML algorithms with the mathematics behind them
 - :sun_with_face: Hobbies: photography
 - 📫 How to reach me: ganesh.halthota@gmail.com
 
 Embedded Linux:
 - Yocto layers for systemd start-up with dual bank RFS on BPI-M1 board
-    - [meta-bananapi](https://github.com/ganesh737/meta-bananapi)
-    - [meta-sunxi](https://github.com/ganesh737/meta-sunxi)
-- [Helper script for flashing Android and Yocto on RPI3](https://github.com/ganesh737/update_tooling)
-- Code written for Yocto Embedded Linux course on Udemy - [meta-example](https://github.com/ganesh737/meta-example)
-
-Notes:
-- [Book: The Pragmatic Programmer](https://github.com/ganesh737/The-Pragmatic-Programmer)
-- [Obsidian notes](https://github.com/ganesh737/obsidian-notes)
+    - [meta-bananapi](https://github.com/ganeshhalthota/meta-bananapi)
+    - [meta-sunxi](https://github.com/ganeshhalthota/meta-sunxi)
+- [Helper script for flashing Android and Yocto on RPI3](https://github.com/ganeshhalthota/update_tooling)
+- Code written for Yocto Embedded Linux course on Udemy - [meta-example](https://github.com/ganeshhalthota/meta-example)
 
 Personal configurations:
-- [Virtual Machine Settings](https://github.com/ganesh737/vm_settings)
-- [Docker Configurations](https://github.com/ganesh737/docker_configs)
+- [Virtual Machine Settings](https://github.com/ganeshhalthota/vm_settings)
+- [Docker Configurations](https://github.com/ganeshhalthota/docker_configs)
 
 Personal Github Pages:
-- [Sync Knowledge](https://github.com/ganesh737/ganesh737.github.io)
-- [My Beat of Life](https://github.com/ganesh737/my-beat-of-life)
+- [Academic blog](https://ganeshhalthota.github.io)
+- [My Beat of Life](https://github.com/ganeshhalthota/my-beat-of-life)
 
+<!--
 Data Science:
 - [Google Colab Experiments](https://github.com/ganesh737/colab_experiments)
 
@@ -49,7 +46,6 @@ Challenging Code Repositories:
 - [cc-codechef](https://github.com/ganesh737/cc-codechef)
 - [cc-advent-of-code](https://github.com/ganesh737/cc-advent-of-code)
 
-<!--
 **ganesh737/ganesh737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
